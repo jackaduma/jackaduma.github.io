@@ -30,16 +30,19 @@ I am interest Speech, NLP, AI on Cyber Security.
 
 ### About Speech
 
-* [CycleGAN-VC2](https://github.com/jackaduma/CycleGAN-VC2).
+* [CycleGAN-VC2: This code is a PyTorch implementation for paper: CycleGAN-VC2: Improved CycleGAN-based Non-parallel Voice Conversion, a nice work on Voice-Conversion/Voice Cloning.](https://github.com/jackaduma/CycleGAN-VC2).
 
-* [CycleGAN-VC3](https://github.com/jackaduma/CycleGAN-VC3). 
+* [CycleGAN-VC3: This code is a PyTorch implementation for paper: CycleGAN-VC3: Examining and Improving CycleGAN-VCs for Mel-spectrogram Conversion, a nice work on Voice-Conversion/Voice Cloning.](https://github.com/jackaduma/CycleGAN-VC3). 
 
-* [LAS_Mandarin_PyTorch](https://github.com/jackaduma/LAS_Mandarin_PyTorch). 
+* [LAS_Mandarin_PyTorch: This code is a PyTorch implementation for paper: Listen, Attend and Spell, a nice work on End-to-End ASR, Speech Recognition model.](https://github.com/jackaduma/LAS_Mandarin_PyTorch). 
 
 ### About AI on Cyber Security
 
-* [SecBERT is a BERT model trained on cyber security text, learned CyberSecurity Knowledge.](https://github.com/jackaduma/SecBERT). 
+* [SecBERT: SecBERT is a BERT model trained on cyber security text, learned CyberSecurity Knowledge.](https://github.com/jackaduma/SecBERT). 
 
+* [NLP4CyberSecurity: This code is NLP models and tech implementation for cyber security task, driven by deep learning model, a nice work on cyber security.](https://github.com/jackaduma/NLP4CyberSecurity)
+
+* [AI-WAF: This code is a implementation of Web-Application-Firewall driven by deep learning model, a nice work on AI-WAF.](https://github.com/jackaduma/AI-WAF)
 
 ### About NLP
 
