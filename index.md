@@ -8,27 +8,23 @@
 
 jackaduma. jackaduma@gmail.com, jackaduma@126.com
 
-I am a engineer.
+I am a deep learning engineer.
 
-I am interest Speech, NLP, AI on Cyber Security.
-
-
------
-### Selected Work
-
------
-### Preprints and Conference Publications
-
-
------
-### Workshop Publications
+I am interest Speech, NLP and AI on Cyber Security.
 
 
 -----
 
-## Open Source
+## **Open Source**
 
-### About Speech
+### **About ChatGPT ...**
+
+#### **a full pipeline to finetune LLM with LoRA and RLHF on consumer hardware**
+* [https://github.com/jackaduma/Alpaca-LoRA-RLHF-PyTorch](https://github.com/jackaduma/Alpaca-LoRA-RLHF-PyTorch)
+* [https://github.com/jackaduma/ChatGLM-LoRA-RLHF-PyTorch](https://github.com/jackaduma/ChatGLM-LoRA-RLHF-PyTorch)
+* [https://github.com/jackaduma/Vicuna-LoRA-RLHF-PyTorch](https://github.com/jackaduma/Vicuna-LoRA-RLHF-PyTorch)
+
+### **About Speech**
 
 * [CycleGAN-VC2: This code is a PyTorch implementation for paper: CycleGAN-VC2: Improved CycleGAN-based Non-parallel Voice Conversion, a nice work on Voice-Conversion/Voice Cloning.](https://github.com/jackaduma/CycleGAN-VC2).
 
@@ -36,7 +32,7 @@ I am interest Speech, NLP, AI on Cyber Security.
 
 * [LAS_Mandarin_PyTorch: This code is a PyTorch implementation for paper: Listen, Attend and Spell, a nice work on End-to-End ASR, Speech Recognition model.](https://github.com/jackaduma/LAS_Mandarin_PyTorch). 
 
-### About AI on Cyber Security
+### **About AI on Cyber Security**
 
 * [SecBERT: SecBERT is a BERT model trained on cyber security text, learned CyberSecurity Knowledge.](https://github.com/jackaduma/SecBERT). 
 
@@ -44,17 +40,7 @@ I am interest Speech, NLP, AI on Cyber Security.
 
 * [AI-WAF: This code is a implementation of Web-Application-Firewall driven by deep learning model, a nice work on AI-WAF.](https://github.com/jackaduma/AI-WAF)
 
-### About NLP
+### **About NLP**
 
 
 -----
-### Teaching 
-
-
------
-
-### Internships
-
-
-
-
