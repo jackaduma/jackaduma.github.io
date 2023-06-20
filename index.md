@@ -24,6 +24,10 @@ I am interest Speech, NLP and AI on Cyber Security.
 * [https://github.com/jackaduma/ChatGLM-LoRA-RLHF-PyTorch](https://github.com/jackaduma/ChatGLM-LoRA-RLHF-PyTorch)
 * [https://github.com/jackaduma/Vicuna-LoRA-RLHF-PyTorch](https://github.com/jackaduma/Vicuna-LoRA-RLHF-PyTorch)
 
+#### The Open Source LLM implementation of paper: RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text. 
+ * [Paper](https://arxiv.org/pdf/2305.13304v1.pdf)
+ * [https://github.com/jackaduma/Recurrent-LLM](https://github.com/jackaduma/Recurrent-LLM)
+
 ### **About Deep Learning in Speech**
 
 * **CycleGAN-VC2:** This code is a PyTorch implementation for paper: CycleGAN-VC2: Improved CycleGAN-based Non-parallel Voice Conversion, a nice work on Voice-Conversion/Voice Cloning.
